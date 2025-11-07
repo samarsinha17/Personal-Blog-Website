@@ -31,12 +31,16 @@ The blog highlights topics such as *Galgotias University’s Active Learning Eco
 ```
 Personal-Blog-Website/
 │
-├── index.html        → Main HTML file  
-├── README.md         → Project documentation  
-└── assets/           → (Optional) Folder for images or additional scripts
+├── Images            → Folder containing all blog images
+├── README.md         → Project documentation
+├── index.html        → Main HTML file
+├── pg.js             → JavaScript file for blog interactions 
+
+
 ```
 
----
+
+
 
 **💡 Main Sections Overview**
 
