@@ -99,7 +99,8 @@ Personal-Blog-Website/
 
 Created by **Samar Sinha**
 📧 Email: [samarsinha2517@gmail.com](mailto:samarsinha2517@gmail.com)
-🔗 GitHub: [github.com/yourusername](https://github.com/samarsinha17)
+🔗 GitHub: [github.com/samarsinha17/Personal-Blog-Website](https://github.com/samarsinha17/Personal-Blog-Website)
+
 
 ---
 
